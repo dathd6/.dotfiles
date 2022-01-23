@@ -1,3 +1,11 @@
-console.log("hhaakjh");
+function hello() {
+  console.log("hhaakjh");
+}
 
-console.log("what are those");
+const what_is_that = () => {
+  console.log("hehe");
+};
+
+const try_rebase = () => {
+  console.log();
+};
