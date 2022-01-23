@@ -1,8 +1,6 @@
 function hello() {
   console.log("hhaakjh");
-}
 
-function what_are_youdoiung() {
   console.log("hehe");
   leeasdasda;
 }
