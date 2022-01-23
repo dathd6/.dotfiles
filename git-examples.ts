@@ -1,5 +1,11 @@
-const hello_baba = () => {
+function hello() {
   console.log("hhaakjh");
+
+
+const what_is_that = () => {
+    console.log("haha")
 };
 
-console.log("what are those");
+const try_rebase = () => {
+  console.log();
+};
