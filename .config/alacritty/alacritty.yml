@@ -2,8 +2,8 @@
 
 window:
   padding:
-    x: 10
-    y: 10
+    x: 0
+    y: 0
 
     dynamic_padding:  false
     decoration: none
@@ -27,7 +27,7 @@ font:
 colors:
   # Default colors
   primary:
-    background: '#282C34'
+    background: '#282828'
     foreground: '0xeeffff'
 
   # Colors the cursor will use if `custom_cursor_colors` is true

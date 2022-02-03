@@ -62,7 +62,6 @@ bindsym $mod+h focus left
 bindsym $mod+j focus down
 bindsym $mod+k focus up
 bindsym $mod+l focus right
-
 bindsym $mod+Left focus left
 bindsym $mod+Down focus down
 bindsym $mod+Up focus up
@@ -194,14 +193,15 @@ bindsym Control+$mod+r exec alacritty -e ranger
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 #bar {
-#        status_command i3status
+#    height 30
 #}
 
 ###### Start command
 #
 #
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec "xrandr --output eDP-1 --mode 1600x900"
+exec "xrandr --output eDP-1 --mode 1920x1080"
+exec --no-startup-id redshift
 #exec --no-startup-id ibus-daemon -d 
 #exec --no-startup-id nitrogen --restore; sleep 1; picom --config ~/.config/picom/picom.conf --experimental-backends
 exec --no-startup-id feh --bg-fill --randomize ~/Pictures/Backgrounds; sleep 1; picom -b --experimental-backends
@@ -221,19 +221,22 @@ exec --no-startup-id exec i3-msg 'workspace 1; exec alacritty -e tmux a -t dathd
 assign [class="TelegramDesktop"] $ws3
 assign [class="Microsoft Teams - Preview"] $ws3
 assign [class="Google-chrome"] $ws2
+assign [class="Alacritty"] $ws1
+assign [class="obs"] $ws4
 #
 ######
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus
-for_window [class=".*"] border pixel 3
+for_window [class=".*"] border pixel 4
 
 #############################
 ### settings for i3-gaps: ###
 #############################
 
 # Set inner/outer gaps
-#smart_borders on
+# smart_borders on
+
 gaps inner 10
 gaps outer -4
 
@@ -242,7 +245,7 @@ focus_follows_mouse no
 
 # Color settings
 client.focused #00C1FF #00C1FF #000088 #00C1FF
-client.focused_inactive #2C2C2C #2C2C2C #ffffff #2C2C2C
+client.focused_inactive #282828 #282828 #ffffff #282828
 client.unfocused #2C2C2C #2C2C2C #ffffff #2C2C2C
 client.urgent #00C1FF #00C1FF #000088 #00C1FF
 
@@ -254,6 +257,8 @@ client.urgent #00C1FF #00C1FF #000088 #00C1FF
 # Smart gaps (gaps used if only more than one container on the workspace)
 smart_gaps on
 smart_gaps inverse_outer
+
+
 
 # Smart borders (draw borders around container only if it is not the only container on this workspace) 
 # on|no_gaps (on=always activate and no_gaps=only activate if the gap size to the edge of the screen is 0)

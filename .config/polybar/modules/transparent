@@ -1,0 +1,4 @@
+[module/trans]
+type = custom/script
+exec = echo "󰍉"
+
