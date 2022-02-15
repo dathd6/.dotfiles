@@ -48,7 +48,7 @@ bindsym $mod+t exec alacritty
 bindsym $mod+q kill
 
 # lock 
-bindsym $mod+Escape exec i3lock
+bindsym $mod+Escape exec i3lock --blur 4 --screen 1 --clock --inside-color '#002b36' --date-color '#ffffff' --time-color '#ffffff' --wrong-text 'Auth Failed' --verif-text 'Verifying...' --wrong-color '#ffffff' --verif-color '#ffffff'
 
 # start dmenu (a program launcher)
 bindsym $mod+d exec "rofi -show drun"
@@ -228,7 +228,7 @@ assign [class="obs"] $ws4
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus
-for_window [class=".*"] border pixel 4
+for_window [class=".*"] border pixel 1
 
 #############################
 ### settings for i3-gaps: ###
@@ -244,9 +244,9 @@ gaps outer -4
 focus_follows_mouse no
 
 # Color settings
-client.focused #00C1FF #00C1FF #000088 #00C1FF
-client.focused_inactive #282828 #282828 #ffffff #282828
-client.unfocused #2C2C2C #2C2C2C #ffffff #2C2C2C
+client.focused #ffffff #ffffff #ffffff #ffffff
+client.focused_inactive #00C1FF00 #00C1FF00 #ffffff #00C1FF00
+client.unfocused #00C1FF00 #00C1FF00 #ffffff #00C1FF00
 client.urgent #00C1FF #00C1FF #000088 #00C1FF
 
 # Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.

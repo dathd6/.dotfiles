@@ -209,6 +209,7 @@ let g:coc_global_extensions = [
     \ ]
 
 let g:NERDTreeIgnore = ['^node_modules$']
+let g:NERDTreeShowHidden = 1
 nnoremap <leader>n :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTreeToggle<CR>
 nnoremap <C-x> :NERDTreeFind<CR>
@@ -414,6 +415,7 @@ nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
 nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 " Close tab
 nnoremap <C-q> :Bdelete<CR>
+map <C-q> :bp<bar>sp<bar>bn<bar>bd<CR>
 
 let g:peekup_open = '<leader>"'
 let g:peekup_paste_before = '<leader>P'
