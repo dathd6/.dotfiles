@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=cshell
-Exec=/usr/bin/cshell/launcher
-Icon=
-Comment=
-X-GNOME-Autostart-enabled=true
