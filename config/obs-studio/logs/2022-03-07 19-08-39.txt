@@ -1,0 +1,160 @@
+19:08:39.896: CPU Name: Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz
+19:08:39.896: CPU Speed: 2800.000MHz
+19:08:39.897: Physical Cores: 2, Logical Cores: 4
+19:08:39.897: Physical Memory: 7806MB Total, 2165MB Free
+19:08:39.897: Kernel Version: Linux 5.13.0-30-generic
+19:08:39.897: Distribution: "Ubuntu" "20.04"
+19:08:39.897: Session Type: x11
+19:08:39.897: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+19:08:39.900: Qt Version: 5.12.8 (runtime), 5.12.8 (compiled)
+19:08:39.900: Portable mode: false
+19:08:39.995: OBS 27.2.2 (linux)
+19:08:39.996: ---------------------------------
+19:08:40.084: ---------------------------------
+19:08:40.084: audio settings reset:
+19:08:40.084: 	samples per sec: 48000
+19:08:40.084: 	speakers:        2
+19:08:40.096: ---------------------------------
+19:08:40.096: Initializing OpenGL...
+19:08:40.147: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 520 (SKL GT2)
+19:08:40.147: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.6, shading language 4.60
+19:08:40.171: ---------------------------------
+19:08:40.171: video settings reset:
+19:08:40.171: 	base resolution:   1920x1080
+19:08:40.171: 	output resolution: 1920x1080
+19:08:40.171: 	downscale filter:  Lanczos
+19:08:40.171: 	fps:               60/1
+19:08:40.171: 	format:            NV12
+19:08:40.171: 	YUV mode:          709/Partial
+19:08:40.171: NV12 texture support not available
+19:08:40.179: Audio monitoring device:
+19:08:40.179: 	name: Default
+19:08:40.179: 	id: default
+19:08:40.179: ---------------------------------
+19:08:40.197: No AJA devices found, skipping loading AJA UI plugin
+19:08:40.197: Failed to initialize module 'aja-output-ui.so'
+19:08:40.213: No AJA devices found, skipping loading AJA plugin
+19:08:40.213: Failed to initialize module 'aja.so'
+19:08:40.216: Failed to load 'en-US' text for module: 'decklink-captions.so'
+19:08:40.219: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+19:08:40.462: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:08:40.462: No blackmagic support
+19:08:40.494: [obs-browser]: Version 2.17.14
+19:08:40.494: [obs-browser]: CEF Version 95.0.4638.69 (runtime), 95.0.0-MediaHandler.2463+g3b3ac84+chromium-95.0.4638.69 (compiled)
+19:08:40.591: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+19:08:40.591: 
+19:08:40.591: FFMPEG VAAPI supported
+19:08:40.626: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+19:08:40.626: 
+19:08:40.627: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+19:08:40.627: ---------------------------------
+19:08:40.627:   Loaded Modules:
+19:08:40.627:     vlc-video.so
+19:08:40.627:     text-freetype2.so
+19:08:40.627:     rtmp-services.so
+19:08:40.627:     obs-x264.so
+19:08:40.627:     obs-vst.so
+19:08:40.627:     obs-transitions.so
+19:08:40.627:     obs-outputs.so
+19:08:40.627:     obs-libfdk.so
+19:08:40.627:     obs-filters.so
+19:08:40.627:     obs-ffmpeg.so
+19:08:40.627:     obs-browser.so
+19:08:40.627:     linux-v4l2.so
+19:08:40.627:     linux-pulseaudio.so
+19:08:40.627:     linux-jack.so
+19:08:40.627:     linux-decklink.so
+19:08:40.627:     linux-capture.so
+19:08:40.627:     linux-alsa.so
+19:08:40.627:     image-source.so
+19:08:40.627:     frontend-tools.so
+19:08:40.627:     decklink-ouput-ui.so
+19:08:40.627:     decklink-captions.so
+19:08:40.627: ---------------------------------
+19:08:40.629: ==== Startup complete ===============================================
+19:08:40.697: All scene data cleared
+19:08:40.697: ------------------------------------------------
+19:08:40.700: pulse-input: Server name: 'pulseaudio 13.99.1'
+19:08:40.700: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+19:08:40.700: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+19:08:40.701: [Loaded global audio device]: 'Desktop Audio'
+19:08:40.768: pulse-input: Server name: 'pulseaudio 13.99.1'
+19:08:40.768: pulse-input: Audio format: s16le, 44100 Hz, 1 channels
+19:08:40.768: pulse-input: Started recording from 'alsa_input.usb-DCMT_Technology_USB_Condenser_Microphone_214b206000000178-00.mono-fallback'
+19:08:40.769: [Loaded global audio device]: 'Mic/Aux'
+19:08:40.771: xshm-input: Geometry 1920x1080 @ 2560,0
+19:08:40.792: v4l2-input: Start capture from /dev/video2
+19:08:40.914: v4l2-input: Input: 0
+19:08:40.923: v4l2-input: Resolution: 640x480
+19:08:40.923: v4l2-input: Pixelformat: MJPG
+19:08:40.923: v4l2-input: Linesize: 0 Bytes
+19:08:40.932: v4l2-input: Framerate: 30.00 fps
+19:08:40.940: v4l2-input: /dev/video2: select timeout set to 166666 (5x frame periods)
+19:08:40.942: pulse-input: Server name: 'pulseaudio 13.99.1'
+19:08:40.944: pulse-input: Audio format: s16le, 44100 Hz, 1 channels
+19:08:40.944: pulse-input: Started recording from 'alsa_input.usb-DCMT_Technology_USB_Condenser_Microphone_214b206000000178-00.mono-fallback'
+19:08:40.946: Switched to scene 'Scene'
+19:08:40.947: ------------------------------------------------
+19:08:40.947: Loaded scenes:
+19:08:40.947: - scene 'Scene':
+19:08:40.950:     - source: 'Screen Capture (XSHM)' (xshm_input)
+19:08:40.950:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+19:08:40.950:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+19:08:40.950:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+19:08:40.950: ------------------------------------------------
+19:08:41.312: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+19:08:41.312: 
+20:57:09.977: adding 21 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Audio Input Capture (PulseAudio))
+20:57:09.977: 
+21:25:16.085: ---------------------------------
+21:25:16.087: [x264 encoder: 'recording_h264'] preset: veryfast
+21:25:16.087: [x264 encoder: 'recording_h264'] profile: high
+21:25:16.088: [x264 encoder: 'recording_h264'] settings:
+21:25:16.088: 	rate_control: CBR
+21:25:16.088: 	bitrate:      2500
+21:25:16.088: 	buffer size:  2500
+21:25:16.088: 	crf:          23
+21:25:16.088: 	fps_num:      60
+21:25:16.088: 	fps_den:      1
+21:25:16.088: 	width:        1920
+21:25:16.088: 	height:       1080
+21:25:16.088: 	keyint:       120
+21:25:16.088: 
+21:25:16.113: libfdk_aac encoder created
+21:25:16.113: libfdk_aac bitrate: 160, channels: 2
+21:25:16.137: ==== Recording Start ===============================================
+21:25:16.137: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/dathd/Youtube/linux/2022-03-07 21-25-16.mp4'...
+21:25:27.363: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/dathd/Youtube/linux/2022-03-07 21-25-16.mp4' stopped
+21:25:27.363: Output 'adv_file_output': stopping
+21:25:27.363: Output 'adv_file_output': Total frames output: 524
+21:25:27.363: Output 'adv_file_output': Total drawn frames: 241 (674 attempted)
+21:25:27.363: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 433 (64.2%)
+21:25:27.364: ==== Recording Stop ================================================
+21:25:27.450: Video stopped, number of skipped frames due to encoding lag: 340/549 (61.9%)
+21:25:27.542: libfdk_aac encoder destroyed
+21:26:15.483: ---------------------------------
+21:26:15.483: [x264 encoder: 'recording_h264'] preset: veryfast
+21:26:15.483: [x264 encoder: 'recording_h264'] profile: high
+21:26:15.483: [x264 encoder: 'recording_h264'] settings:
+21:26:15.483: 	rate_control: CBR
+21:26:15.483: 	bitrate:      2500
+21:26:15.483: 	buffer size:  2500
+21:26:15.483: 	crf:          23
+21:26:15.483: 	fps_num:      60
+21:26:15.483: 	fps_den:      1
+21:26:15.483: 	width:        1920
+21:26:15.483: 	height:       1080
+21:26:15.483: 	keyint:       120
+21:26:15.483: 
+21:26:15.488: libfdk_aac encoder created
+21:26:15.489: libfdk_aac bitrate: 160, channels: 2
+21:26:15.493: ==== Recording Start ===============================================
+21:26:15.493: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/dathd/Youtube/linux/2022-03-07 21-26-15.mp4'...
+21:26:25.964: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/dathd/Youtube/linux/2022-03-07 21-26-15.mp4' stopped
+21:26:25.964: Output 'adv_file_output': stopping
+21:26:25.964: Output 'adv_file_output': Total frames output: 494
+21:26:25.964: Output 'adv_file_output': Total drawn frames: 225 (627 attempted)
+21:26:25.964: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 402 (64.1%)
+21:26:25.965: ==== Recording Stop ================================================
+21:26:26.018: Video stopped, number of skipped frames due to encoding lag: 221/514 (43.0%)
+21:26:26.082: libfdk_aac encoder destroyed

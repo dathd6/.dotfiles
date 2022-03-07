@@ -4,7 +4,7 @@ import subprocess
 from libqtile import hook
 
 from libqtile.extension.dmenu import DmenuRun
-from libqtile.bar import Bar
+from libqtile.bar import Bar, CALCULATED
 
 # import layout objects
 from libqtile.layout.columns import Columns 
@@ -12,6 +12,7 @@ from libqtile.layout.max import Max
 from libqtile.layout.floating import Floating
 
 # import widgets and bar
+from libqtile.widget.base import _TextBox
 from libqtile.widget.groupbox import GroupBox
 from libqtile.widget.currentlayout import CurrentLayout
 from libqtile.widget.window_count import WindowCount
@@ -21,6 +22,7 @@ from libqtile.widget.memory import Memory
 from libqtile.widget.systray import Systray
 from libqtile.widget.clock import Clock
 from libqtile.widget.spacer import Spacer
+from libqtile.widget.textbox import TextBox
 
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
@@ -54,7 +56,7 @@ keys = [
     Key([mod, "shift"], "j", lazy.layout.grow_down(), desc="Grow window down"),
     Key([mod, "shift"], "k", lazy.layout.grow_up(), desc="Grow window up"),
     Key([mod], "n", lazy.layout.normalize(), desc="Reset all window sizes"),
-    Key([mod], "s", lazy.spawn("kitty -e alsamixer"), desc="Volumn setting"),
+    Key([mod], "s", lazy.spawn("alacritty -e alsamixer"), desc="Volumn setting"),
     # Toggle between split and unsplit sides of stack.
     # Split = all windows displayed
     # multiple stack panes
@@ -73,7 +75,8 @@ keys = [
     Key(
         [mod],
         "Escape",
-        lazy.spawn("i3lock --blur 4 --screen 1 --clock --inside-color '#002b36' --date-color '#ffffff' --time-color '#ffffff' --wrong-text 'Auth Failed' --verif-text 'Verifying...' --wrong-color '#ffffff' --verif-color '#ffffff'"),
+        #lazy.spawn("i3lock --blur 4 --screen 1 --clock --inside-color '#002b36' --date-color '#ffffff' --time-color '#ffffff' --wrong-text 'Auth Failed' --verif-text 'Verifying...' --wrong-color '#ffffff' --verif-color '#ffffff'"),
+        lazy.spawn("alacritty -e betterlockscreen -l blur"),
         desc="lock screen",
     ),
     Key([mod], "t", lazy.spawn(terminal), desc="Launch terminal"),
@@ -93,7 +96,7 @@ keys = [
         dmenu_lines=15,
         background=gruvbox['bg'],
         foreground=gruvbox['gray'],
-        selected_foreground=gruvbox['dark-blue'],
+        selected_foreground=gruvbox['blue-alt'],
         selected_background=gruvbox['bg'],
     ))),
      ### Switch focus to specific monitor (out of three)
@@ -123,14 +126,15 @@ keys = [
 #groups = [Group(i) for i in "123456789"]
 groups = [
     Group('1', label='一', layout='columns'),
-    Group('2', label='二', matches=[Match(wm_class='Google-chrome'), Match(wm_class='Brave-browser')], layout='columns'),
+    Group('2', label='二', matches=[Match(wm_class='Brave-browser')], layout='columns'),
     Group('3', label='三', matches=[Match(wm_class='Microsoft Teams - Preview'), Match(wm_class='TelegramDesktop')], layout='columns'),
-    Group('4', label='四', matches=[Match(wm_class='Firefox')], layout='columns'),
+    Group('4', label='四', matches=[Match(wm_class='Google-chrome')], layout='columns'),
     Group('5', label='五', matches=[Match(wm_class='')], layout='columns'),
     Group('6', label='六', matches=[Match(wm_class='')], layout='columns'),
     Group('7', label='七', matches=[Match(wm_class='')], layout='columns'),
-    Group('8', label='八', matches=[Match(wm_class='')], layout='columns'),
-    Group('9', label='九', matches=[Match(wm_class='')], layout='columns'),
+    Group('8', label='八', matches=[Match(wm_class='Firefox')], layout='columns'),
+    Group('9', label='九', matches=[Match(wm_class='obs')], layout='columns'),
+    Group('0', label='零', matches=[Match(wm_class='Org.gnome.clocks')], layout='columns'),
 ]
 
 #prompt = "{0}@{1}: ".format(os.environ["USER"], socket.gethostname())
@@ -161,10 +165,10 @@ for i in groups:
 
 layouts = [
     Columns(
-        border_normal=gruvbox['dark-gray'],
+        border_normal=gruvbox['gray'],
         border_focus_stack="#d75f5f",
         border_width=2,
-        border_normal_stack=gruvbox['dark-gray'],
+        border_normal_stack=gruvbox['gray'],
         border_focus='#98971a',
         border_on_single=2,
         margin=5,
@@ -192,19 +196,39 @@ widget_defaults = dict(
 )
 extension_defaults = widget_defaults.copy()
 
+class MyCustomWidget(_TextBox):
+    defaults = [
+            ("font", "sans", "Text font"),
+            ("fontsize", None, "Font pixel size. Calculated if None."),
+            ("fontshadow", None, "font shadow color, default is None(no shadow)"),
+            ("padding", None, "Padding left and right. Calculated if None."),
+            ("foreground", "#ffffff", "Foreground colour."),
+    ]  
+
+    def __init__(self, text=" ", width=CALCULATED, **config):
+        _TextBox.__init__(self, text=text, width=width, **config)
+
+    def cmd_update(self, text):
+        """Update the text in a TextBox widget"""
+        self.update(text=text)
+
+    def cmd_get(self):
+        """Retrieve the text in a TextBox widget"""
+        return self.text
+
 screens = [
           Screen(
               top=Bar(
                   [
                       Spacer(length=10),
                       CurrentLayout(
-                          background=gruvbox['dark-blue'],
+                          background=gruvbox['blue-alt'],
                       ),
                       Spacer(length=10),
 
                       WindowCount(
-                          text_format='󰉨 {num}',
-                          background=gruvbox['dark-magenta'],
+                          text_format=' {num}',
+                          background=gruvbox['green'],
                           show_zero=True
                       ),
 
@@ -215,9 +239,11 @@ screens = [
                       GroupBox(
                           disable_drag=True,
                           active=gruvbox['gray'],
-                          inactive=gruvbox['dark-gray'],
+                          inactive=gruvbox['gray'],
                           highlight_method='line',
                           block_highlight_text_color=gruvbox['red'],
+                          this_screen_border=gruvbox['purple-alt'],
+                          this_current_screen_border=gruvbox['green'],
                           borderwidth=2,
                           highlight_color=gruvbox['bg'],
                           background=gruvbox['bg']
@@ -238,19 +264,19 @@ screens = [
                       Spacer(length=10),
 
                       Memory(
-                          format='󰹻 {MemUsed: .0f}{mm}/{MemTotal: .0f}{mm}',
-                          background=gruvbox['magenta']),
+                          format=' {MemUsed: .0f}{mm}/{MemTotal: .0f}{mm}',
+                          background=gruvbox['red-alt']),
 
                       Spacer(length=10),
 
                       Clock(
-                          background=gruvbox['dark-cyan'],
+                          background=gruvbox['orange'],
                           format=' %Y-%m-%d %a %I:%M %p'),
 
                       Spacer(length=10),
                   ],
                   margin=[10, 10, 5, 10],
-                  background='#00000000',
+                  background='#24352100',
                   opacity=1,
                   size=25,
               ),
@@ -260,13 +286,13 @@ screens = [
                   [
                       Spacer(length=10),
                       CurrentLayout(
-                          background=gruvbox['dark-blue'],
+                          background=gruvbox['blue-alt'],
                       ),
                       Spacer(length=10),
 
                       WindowCount(
-                          text_format='󰉨 {num}',
-                          background=gruvbox['dark-magenta'],
+                          text_format=' {num}',
+                          background=gruvbox['green'],
                           show_zero=True
                       ),
 
@@ -277,8 +303,10 @@ screens = [
                       GroupBox(
                           disable_drag=True,
                           active=gruvbox['gray'],
-                          inactive=gruvbox['dark-gray'],
+                          inactive=gruvbox['gray-alt'],
                           highlight_method='line',
+                          this_current_screen_border=gruvbox['green'],
+                          this_screen_border=gruvbox['purple-alt'],
                           block_highlight_text_color=gruvbox['red'],
                           borderwidth=2,
                           highlight_color=gruvbox['bg'],
@@ -287,8 +315,12 @@ screens = [
 
                       WindowName(foreground=gruvbox['fg']),
 
-
                       Spacer(length=100),
+                      
+                      #TextBox(text="Working mode", background=gruvbox['yellow']),
+                      MyCustomWidget(text="Working mode", background=gruvbox['yellow'], mouse_callbacks={'Button1': lazy.spawn('alacritty')}),
+
+                      Spacer(length=10),
 
                       CPU(
                           format=' {freq_current}GHz {load_percent}%',
@@ -297,13 +329,13 @@ screens = [
                       Spacer(length=10),
 
                       Memory(
-                          format='󰹻 {MemUsed: .0f}{mm}/{MemTotal: .0f}{mm}',
-                          background=gruvbox['magenta']),
+                          format=' {MemUsed: .0f}{mm}/{MemTotal: .0f}{mm}',
+                          background=gruvbox['orange-alt']),
 
                       Spacer(length=10),
 
                       Clock(
-                          background=gruvbox['dark-cyan'],
+                          background=gruvbox['aqua'],
                           format=' %Y-%m-%d %a %I:%M %p'),
 
                       Spacer(length=10),
@@ -330,8 +362,8 @@ bring_front_click = False
 cursor_warp = False
 
 floating_layout = Floating(
-    border_normal=gruvbox['dark-gray'],
-    border_focus=gruvbox['dark-yellow'],
+    border_normal=gruvbox['gray-alt'],
+    border_focus=gruvbox['yellow-alt'],
     border_width=4,
     float_rules=[
         *Floating.default_float_rules,
