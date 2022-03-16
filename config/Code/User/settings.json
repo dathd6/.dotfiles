@@ -1,0 +1,139 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "MesloLGS NF",
+  "window.menuBarVisibility": "toggle",
+  "editor.lineNumbers": "relative",
+  "editor.cursorBlinking": "expand",
+  "workbench.colorCustomizations": {
+    "editor.background": "#32302F",
+    "terminal.background": "#32302F",
+    // "statusBar.background": "#32302F",
+    "statusBar.background": "#A89984",
+    "menu.background": "#32302F",
+    "sideBar.background": "#32302F",
+    "sideBarSectionHeader.background": "#3C3836",
+    // "dropdown.background": "#3C3836",
+    "activityBar.background": "#3C3836",
+    "activityBarBadge.background": "#5B534D",
+    "activityBar.foreground": "#A89984",
+    "activityBarBadge.foreground": "#A89984",
+    "tab.activeBackground": "#A89984",
+    "tab.activeForeground": "#fbf1c7",
+    "tab.inactiveBackground": "#3C3836",
+    "tab.inactiveForeground": "#A89984",
+    "tab.hoverBackground": "#5B534D",
+    "welcomePage.background": "#3C3836",
+    "sideBar.foreground": "#A89984",
+    "statusBar.foreground": "#32302f",
+    "editor.foreground": "#A89984",
+    "menu.foreground": "#A89984",
+    "badge.background": "#5B534D",
+    "input.background": "#5B534D",
+    "foreground": "#fbf1c7",
+    "input.foreground": "#fbf1c7",
+    "editorCursor.background": "#3C3836",
+    "editorCursor.foreground": "#ffffff",
+    "list.activeSelectionBackground": "#3D4220",
+    "list.activeSelectionForeground": "#fbf1c7",
+    "selection.background": "#a89984",
+    "editorError.foreground": "#fb4934",
+    "quickInput.background": "#32302f",
+    "focusBorder": "#928374",
+    "editorLineNumber.foreground": "#5B534C",
+    "testing.message.info.lineBackground": "#ff0000",
+    "editor.lineHighlightBackground": "#ff000000",
+    "editor.lineHighlightBorder": "#ff000000",
+    "editorSuggestWidget.background": "#504945",
+    "editorSuggestWidget.selectedForeground": "#504945",
+    "editorSuggestWidget.selectedBackground": "#A89984",
+    "editorSuggestWidget.foreground": "#DDC7A1",
+    "editorSuggestWidget.focusHighlightForeground": "#b8bb26",
+    "editorSuggestWidget.highlightForeground": "#98971a",
+    "list.hoverBackground": "#fe8019",
+    "editorHoverWidget.background": "#504945",
+    "panel.border": "#A89984",
+    "editorLineNumber.activeForeground": "#A89984",
+    "editorIndentGuide.background": "#92837430"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#928374",
+    "functions": "#ebdbb2",
+    "types": "#83a598",
+    "numbers": "#d3869b",
+    "keywords": "#d3869b",
+    "variables": "#89B482",
+    "strings": "#A9B665",
+    "textMateRules": [
+      {
+        "scope": "support.type.property-name.json",
+        "settings": {
+          "foreground": "#fe8019",
+          "fontStyle": "bold"
+        }
+      }
+    ]
+  },
+  "workbench.editor.showTabs": false,
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "workbench.activityBar.visible": false,
+  "bracketPairColorizer.depreciation-notice": false,
+  "files.exclude": {
+    "**/.next": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/deps": true
+  },
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 17,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue"
+  ],
+  "vim.enableNeovim": true,
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[graphql]": {
+    "editor.tabSize": 2
+  },
+  "vim.neovimPath": "/usr/bin/nvim",
+  "vim.neovimUseConfigFile": true,
+  "vim.neovimConfigPath": "~/.config/nvim/init.vim",
+  "tailwindCSS.includeLanguages": {
+    "typescriptreact": "html"
+  },
+  "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+  "editor.wordWrap": "off",
+  "tailwindCSS.experimental.classRegex": [
+    "tw\\(\"([^\"]*)\"",
+    "tw\\('([^']*)'",
+    "tw\\(`([^']*)`"
+  ]
+}

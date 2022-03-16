@@ -1,0 +1,16 @@
+[2022-03-14 22:14:26.719] [sharedprocess] [info] Starting worker process with pid 62810 (type: fileWatcher, window: 2).
+[2022-03-14 22:14:26.721] [sharedprocess] [info] Starting worker process with pid 62811 (type: fileWatcher, window: 1).
+[2022-03-14 23:48:11.627] [sharedprocess] [info] Getting Manifest... dbaeumer.vscode-eslint
+[2022-03-14 23:48:11.640] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-03-14 23:48:14.214] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/dathd/.config/Code/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.2
+[2022-03-14 23:48:14.813] [sharedprocess] [info] Extracted extension to /home/dathd/.vscode/extensions/.e75ab05e-c8a7-46fb-8716-58c70ee6e855: dbaeumer.vscode-eslint
+[2022-03-14 23:48:14.825] [sharedprocess] [info] Renamed to /home/dathd/.vscode/extensions/dbaeumer.vscode-eslint-2.2.2
+[2022-03-14 23:48:14.827] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-03-14 23:48:14.831] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-03-14 23:49:44.513] [sharedprocess] [info] Getting Manifest... bradlc.vscode-tailwindcss
+[2022-03-14 23:49:44.525] [sharedprocess] [info] Installing extension: bradlc.vscode-tailwindcss
+[2022-03-14 23:49:46.557] [sharedprocess] [info] Downloaded extension: bradlc.vscode-tailwindcss /home/dathd/.config/Code/CachedExtensionVSIXs/bradlc.vscode-tailwindcss-0.7.7
+[2022-03-14 23:49:46.646] [sharedprocess] [info] Extracted extension to /home/dathd/.vscode/extensions/.dc892593-b396-4e2a-aa12-1602985f69a1: bradlc.vscode-tailwindcss
+[2022-03-14 23:49:46.663] [sharedprocess] [info] Renamed to /home/dathd/.vscode/extensions/bradlc.vscode-tailwindcss-0.7.7
+[2022-03-14 23:49:46.665] [sharedprocess] [info] Extracting completed. bradlc.vscode-tailwindcss
+[2022-03-14 23:49:46.669] [sharedprocess] [info] Extension installed successfully: bradlc.vscode-tailwindcss

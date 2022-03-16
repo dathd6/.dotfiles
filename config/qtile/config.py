@@ -57,6 +57,7 @@ keys = [
     Key([mod, "shift"], "k", lazy.layout.grow_up(), desc="Grow window up"),
     Key([mod], "n", lazy.layout.normalize(), desc="Reset all window sizes"),
     Key([mod], "s", lazy.spawn("alacritty -e alsamixer"), desc="Volumn setting"),
+    Key([mod, "control"], "d", lazy.spawn('alacritty -e rm -rf ~/.local/share/nvim/swap/*'), desc="Reset all window sizes"),
     # Toggle between split and unsplit sides of stack.
     # Split = all windows displayed
     # multiple stack panes
@@ -132,7 +133,7 @@ groups = [
     Group('5', label='五', matches=[Match(wm_class='')], layout='columns'),
     Group('6', label='六', matches=[Match(wm_class='')], layout='columns'),
     Group('7', label='七', matches=[Match(wm_class='')], layout='columns'),
-    Group('8', label='八', matches=[Match(wm_class='Firefox')], layout='columns'),
+    Group('8', label='八', matches=[Match(wm_class='firefox')], layout='columns'),
     Group('9', label='九', matches=[Match(wm_class='obs')], layout='columns'),
     Group('0', label='零', matches=[Match(wm_class='Org.gnome.clocks')], layout='columns'),
 ]
@@ -238,10 +239,10 @@ screens = [
 
                       GroupBox(
                           disable_drag=True,
-                          active=gruvbox['gray'],
-                          inactive=gruvbox['gray'],
+                          active=gruvbox['fg'],
+                          inactive=gruvbox['gray-alt'],
                           highlight_method='line',
-                          block_highlight_text_color=gruvbox['red'],
+                          block_highlight_text_color=gruvbox['red-alt'],
                           this_screen_border=gruvbox['purple-alt'],
                           this_current_screen_border=gruvbox['green'],
                           borderwidth=2,
@@ -300,14 +301,15 @@ screens = [
 
                       # Prompt(foreground=gruvbox['fg']),
 
+
                       GroupBox(
                           disable_drag=True,
-                          active=gruvbox['gray'],
+                          active=gruvbox['fg'],
                           inactive=gruvbox['gray-alt'],
                           highlight_method='line',
-                          this_current_screen_border=gruvbox['green'],
+                          block_highlight_text_color=gruvbox['red-alt'],
                           this_screen_border=gruvbox['purple-alt'],
-                          block_highlight_text_color=gruvbox['red'],
+                          this_current_screen_border=gruvbox['green'],
                           borderwidth=2,
                           highlight_color=gruvbox['bg'],
                           background=gruvbox['bg']

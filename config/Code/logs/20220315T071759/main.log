@@ -1,0 +1,47 @@
+[2022-03-15 07:18:00.160] [main] [info] window#load: attempt to load window (id: 1)
+[2022-03-15 07:18:00.274] [main] [info] window#load: attempt to load window (id: 2)
+[2022-03-15 07:18:00.287] [main] [info] update#setState idle
+[2022-03-15 07:18:00.358] [main] [info] ExtensionHostStarterWorker created
+[2022-03-15 07:18:02.945] [main] [info] window#load: window reported ready (id: 1)
+[2022-03-15 07:18:03.002] [main] [info] window#load: window reported ready (id: 2)
+[2022-03-15 07:18:03.320] [main] [info] Starting extension host with pid 3801 (fork() took 49 ms).
+[2022-03-15 07:18:03.324] [main] [info] ExtensionHostStarterWorker.start() took 65 ms.
+[2022-03-15 07:18:03.400] [main] [info] Starting extension host with pid 3808 (fork() took 24 ms).
+[2022-03-15 07:18:03.408] [main] [info] ExtensionHostStarterWorker.start() took 41 ms.
+[2022-03-15 07:18:21.511] [main] [info] Enabling inspect port on extension host with pid 3801.
+[2022-03-15 07:18:30.290] [main] [info] update#setState checking for updates
+[2022-03-15 07:18:30.371] [main] [info] update#setState idle
+[2022-03-15 08:18:30.364] [main] [info] update#setState checking for updates
+[2022-03-15 08:18:31.729] [main] [info] update#setState idle
+[2022-03-15 09:18:30.494] [main] [info] update#setState checking for updates
+[2022-03-15 09:18:31.093] [main] [info] update#setState idle
+[2022-03-15 10:18:30.609] [main] [info] update#setState checking for updates
+[2022-03-15 10:18:30.915] [main] [info] update#setState idle
+[2022-03-15 11:18:30.695] [main] [info] update#setState checking for updates
+[2022-03-15 11:18:30.992] [main] [info] update#setState idle
+[2022-03-15 12:18:30.747] [main] [info] update#setState checking for updates
+[2022-03-15 12:18:31.080] [main] [info] update#setState idle
+[2022-03-15 13:18:30.857] [main] [info] update#setState checking for updates
+[2022-03-15 13:18:32.000] [main] [info] update#setState idle
+[2022-03-15 14:18:30.967] [main] [info] update#setState checking for updates
+[2022-03-15 14:18:31.305] [main] [info] update#setState idle
+[2022-03-15 15:18:31.074] [main] [info] update#setState checking for updates
+[2022-03-15 15:18:31.521] [main] [info] update#setState idle
+[2022-03-15 16:18:31.161] [main] [info] update#setState checking for updates
+[2022-03-15 16:18:31.646] [main] [info] update#setState idle
+[2022-03-15 17:18:31.169] [main] [info] update#setState checking for updates
+[2022-03-15 17:18:31.487] [main] [info] update#setState idle
+[2022-03-15 17:28:31.913] [main] [info] Enabling inspect port on extension host with pid 3808.
+[2022-03-15 17:28:31.948] [main] [info] Enabling inspect port on extension host with pid 3808.
+[2022-03-15 18:18:31.269] [main] [info] update#setState checking for updates
+[2022-03-15 18:18:31.785] [main] [info] update#setState idle
+[2022-03-15 19:18:31.355] [main] [info] update#setState checking for updates
+[2022-03-15 19:18:31.697] [main] [info] update#setState idle
+[2022-03-15 20:18:31.393] [main] [info] update#setState checking for updates
+[2022-03-15 20:18:31.726] [main] [info] update#setState idle
+[2022-03-15 21:18:31.426] [main] [info] update#setState checking for updates
+[2022-03-15 21:18:31.723] [main] [info] update#setState idle
+[2022-03-15 22:18:31.534] [main] [info] update#setState checking for updates
+[2022-03-15 22:18:32.008] [main] [info] update#setState idle
+[2022-03-15 23:18:31.646] [main] [info] update#setState checking for updates
+[2022-03-15 23:18:31.923] [main] [info] update#setState idle

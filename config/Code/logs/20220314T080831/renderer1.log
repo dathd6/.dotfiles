@@ -1,0 +1,10 @@
+[2022-03-14 15:35:26.200] [renderer1] [info] Setting search error: XHR failed
+[2022-03-14 15:35:26.356] [renderer1] [info] Setting search error: XHR failed
+[2022-03-14 22:01:26.197] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at /home/dathd/.vscode/extensions/vscodevim.vim-1.22.2/extensionBase.ts:239:40
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-03-14 22:01:32.482] [renderer1] [error] Cannot read property 'document' of undefined: TypeError: Cannot read property 'document' of undefined
+    at /home/dathd/.vscode/extensions/vscodevim.vim-1.22.2/extensionBase.ts:239:40
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

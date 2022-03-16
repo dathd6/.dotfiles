@@ -1,0 +1,2477 @@
+["INFO" - 7:18:23 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 7:18:23 AM] Extension Version: 9.3.0.
+["INFO" - 7:25:12 AM] Formatting vscode-userdata:/home/dathd/.config/Code/User/keybindings.json
+["INFO" - 7:25:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 7:25:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:25:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/.config/Code/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 7:25:12 AM] Formatting completed in 0.097ms.
+["INFO" - 7:25:19 AM] Formatting vscode-userdata:/home/dathd/.config/Code/User/keybindings.json
+["INFO" - 7:25:19 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 7:25:19 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:25:19 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/.config/Code/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 7:25:19 AM] Formatting completed in 0.054ms.
+["INFO" - 7:32:26 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Intro.tsx
+["INFO" - 7:32:26 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 7:32:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:32:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:32:26 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Intro.tsx",
+  "parser": "typescript"
+}
+["INFO" - 7:32:26 AM] Formatting completed in 0.087ms.
+["INFO" - 7:32:33 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Intro.tsx
+["INFO" - 7:32:33 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 7:32:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:32:33 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:32:33 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Intro.tsx",
+  "parser": "typescript"
+}
+["INFO" - 7:32:33 AM] Formatting completed in 0.061ms.
+["INFO" - 7:32:38 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Intro.tsx
+["INFO" - 7:32:39 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 7:32:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:32:39 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:32:39 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Intro.tsx",
+  "parser": "typescript"
+}
+["INFO" - 7:32:39 AM] Formatting completed in 0.037ms.
+["INFO" - 7:32:47 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Intro.tsx
+["INFO" - 7:32:47 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 7:32:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:32:47 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:32:47 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Intro.tsx",
+  "parser": "typescript"
+}
+["INFO" - 7:32:47 AM] Formatting completed in 0.033ms.
+["INFO" - 8:24:43 AM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 8:24:43 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:24:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:24:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:24:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:24:43 AM] Formatting completed in 0.04ms.
+["INFO" - 8:24:57 AM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 8:24:57 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:24:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:24:57 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:24:57 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["ERROR" - 8:24:57 AM] Error formatting document.
+["ERROR" - 8:24:57 AM] Identifier expected. (28:6)
+  26 |       <Header routeName={router.route} />
+  27 |       <div id="home" className="wrapper">
+> 28 |     <!--intro-->
+     |      ^
+  29 |         <Intro />
+  30 |
+  31 |         <div className="gap"></div>
+SyntaxError: Identifier expected. (28:6)
+  26 |       <Header routeName={router.route} />
+  27 |       <div id="home" className="wrapper">
+> 28 |     <!--intro-->
+     |      ^
+  29 |         <Intro />
+  30 |
+  31 |         <div className="gap"></div>
+    at r (/home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/node_modules/prettier/parser-typescript.js:1:619)
+    at yx (/home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/node_modules/prettier/parser-typescript.js:13:3304376)
+    at Object.parse (/home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/node_modules/prettier/parser-typescript.js:13:3304817)
+    at Object.parse$d [as parse] (/home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/node_modules/prettier/index.js:12975:19)
+    at coreFormat (/home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/node_modules/prettier/index.js:14525:16)
+    at formatWithCursor$1 (/home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/node_modules/prettier/index.js:14765:14)
+    at /home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/node_modules/prettier/index.js:60959:12
+    at Object.Success [as format] (/home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/node_modules/prettier/index.js:60979:12)
+    at t.default.format (/home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/src/PrettierEditService.ts:435:45)
+    at t.PrettierEditProvider.provideEdits (/home/dathd/.vscode/extensions/esbenp.prettier-vscode-9.3.0/src/PrettierEditService.ts:322:22)
+    at y.provideDocumentFormattingEdits (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:98503)
+["INFO" - 8:24:57 AM] Formatting completed in 0.174ms.
+["INFO" - 8:25:03 AM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 8:25:03 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:25:03 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:25:03 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:25:03 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:25:03 AM] Formatting completed in 0.039ms.
+["INFO" - 8:26:16 AM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 8:26:16 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:26:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:26:16 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:26:16 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:26:16 AM] Formatting completed in 0.04ms.
+["INFO" - 8:28:32 AM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 8:28:32 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:28:32 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:28:32 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:28:32 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:28:32 AM] Formatting completed in 0.039ms.
+["INFO" - 8:38:53 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:38:53 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:38:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:38:53 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:38:53 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:38:53 AM] Formatting completed in 0.033ms.
+["INFO" - 8:39:22 AM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 8:39:22 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:39:22 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:39:22 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:22 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:39:22 AM] Formatting completed in 0.083ms.
+["INFO" - 8:39:27 AM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 8:39:27 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:39:27 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:39:27 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:39:27 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:39:27 AM] Formatting completed in 0.042ms.
+["INFO" - 8:40:06 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:40:06 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:40:06 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:40:06 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:40:06 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:40:06 AM] Formatting completed in 0.026ms.
+["INFO" - 8:42:44 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:42:44 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:42:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:42:44 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:42:44 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:42:44 AM] Formatting completed in 0.048ms.
+["INFO" - 8:42:59 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:42:59 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:42:59 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:42:59 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:42:59 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:42:59 AM] Formatting completed in 0.037ms.
+["INFO" - 8:44:29 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:44:29 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:44:29 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:44:29 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:44:29 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:44:29 AM] Formatting completed in 0.045ms.
+["INFO" - 8:44:49 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:44:49 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:44:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:44:49 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:44:49 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:44:49 AM] Formatting completed in 0.031ms.
+["INFO" - 8:50:25 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:50:25 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:50:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:50:25 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:50:25 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:50:25 AM] Formatting completed in 0.026ms.
+["INFO" - 8:50:29 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:50:29 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:50:29 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:50:29 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:50:29 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:50:29 AM] Formatting completed in 0.031ms.
+["INFO" - 8:52:04 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:52:04 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:52:04 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:52:04 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:52:04 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:52:04 AM] Formatting completed in 0.183ms.
+["INFO" - 8:53:07 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:53:07 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:53:07 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:53:07 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:53:07 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:53:08 AM] Formatting completed in 0.215ms.
+["INFO" - 8:55:26 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:55:26 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:55:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:55:26 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:55:26 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:55:26 AM] Formatting completed in 0.235ms.
+["INFO" - 8:55:51 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 8:55:51 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 8:55:51 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:55:51 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:55:51 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 8:55:52 AM] Formatting completed in 0.266ms.
+["INFO" - 9:01:39 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:01:39 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:01:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:01:39 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:01:39 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:01:40 AM] Formatting completed in 0.281ms.
+["INFO" - 9:08:54 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:08:54 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:08:54 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:08:54 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:08:54 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:08:54 AM] Formatting completed in 0.23ms.
+["INFO" - 9:10:33 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:10:33 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:10:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:10:33 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:10:33 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:10:33 AM] Formatting completed in 0.226ms.
+["INFO" - 5:15:42 PM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 5:15:42 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:15:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:15:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:15:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:15:42 PM] Formatting completed in 0.138ms.
+["INFO" - 5:20:24 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 5:20:25 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:20:25 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:20:25 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:20:25 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:20:25 PM] Formatting completed in 0.648ms.
+["INFO" - 5:20:57 PM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 5:20:57 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:20:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:20:57 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:20:57 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:20:57 PM] Formatting completed in 0.086ms.
+["INFO" - 5:23:56 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 5:23:56 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:23:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:23:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:23:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:23:56 PM] Formatting completed in 0.461ms.
+["INFO" - 5:24:27 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 5:24:27 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:24:27 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:24:27 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:24:27 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:24:27 PM] Formatting completed in 0.334ms.
+["INFO" - 5:24:59 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 5:24:59 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:24:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:24:59 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:24:59 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:24:59 PM] Formatting completed in 0.235ms.
+["INFO" - 5:25:31 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 5:25:31 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:25:31 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:25:31 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:25:31 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:25:32 PM] Formatting completed in 0.188ms.
+["INFO" - 5:26:42 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 5:26:42 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:26:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:26:42 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:26:42 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:26:42 PM] Formatting completed in 0.305ms.
+["INFO" - 5:27:00 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 5:27:00 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:27:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:27:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:27:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:27:00 PM] Formatting completed in 0.344ms.
+["INFO" - 5:35:06 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 5:35:06 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 5:35:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:35:06 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:35:06 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 5:35:06 PM] Formatting completed in 0.221ms.
+["INFO" - 9:34:38 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:34:38 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:34:38 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:34:38 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:34:38 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:34:39 PM] Formatting completed in 0.344ms.
+["INFO" - 9:36:26 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:36:26 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:36:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:36:26 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:36:26 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:36:26 PM] Formatting completed in 0.295ms.
+["INFO" - 9:36:32 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:36:32 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:36:32 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:36:32 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:36:32 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:36:32 PM] Formatting completed in 0.151ms.
+["INFO" - 9:37:18 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:37:18 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:37:18 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:37:18 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:37:18 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:37:18 PM] Formatting completed in 0.05ms.
+["INFO" - 9:37:49 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:37:49 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:37:49 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:37:49 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:37:49 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:37:49 PM] Formatting completed in 0.048ms.
+["INFO" - 9:38:54 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:38:55 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:38:55 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:38:55 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:38:55 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:38:55 PM] Formatting completed in 0.057ms.
+["INFO" - 9:39:18 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:39:18 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:39:18 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:39:18 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:39:18 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:39:18 PM] Formatting completed in 0.065ms.
+["INFO" - 9:39:30 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:39:30 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:39:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:39:30 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:39:30 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:39:30 PM] Formatting completed in 0.102ms.
+["INFO" - 9:40:49 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:40:49 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:40:49 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:40:49 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:40:49 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:40:49 PM] Formatting completed in 0.044ms.
+["INFO" - 9:41:15 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:41:15 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:41:15 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:41:15 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:41:15 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:41:15 PM] Formatting completed in 0.113ms.
+["INFO" - 9:41:33 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:41:33 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:41:33 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:41:33 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:41:33 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:41:33 PM] Formatting completed in 0.057ms.
+["INFO" - 9:41:51 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:41:51 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:41:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:41:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:41:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:41:51 PM] Formatting completed in 0.069ms.
+["INFO" - 9:42:01 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:42:01 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:42:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:42:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:42:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:42:01 PM] Formatting completed in 0.096ms.
+["INFO" - 9:42:20 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:42:20 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:42:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:42:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:42:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:42:20 PM] Formatting completed in 0.053ms.
+["INFO" - 9:57:09 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 9:57:09 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 9:57:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 9:57:09 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:57:09 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 9:57:09 PM] Formatting completed in 0.03ms.
+["INFO" - 10:11:21 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:11:21 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:11:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:11:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:11:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:11:21 PM] Formatting completed in 0.072ms.
+["INFO" - 10:27:02 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:27:02 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:27:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:27:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:27:02 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:27:02 PM] Formatting completed in 0.166ms.
+["INFO" - 10:27:07 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:27:07 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:27:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:27:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:27:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:27:07 PM] Formatting completed in 0.077ms.
+["INFO" - 10:27:44 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:27:44 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:27:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:27:44 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:27:44 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:27:44 PM] Formatting completed in 0.054ms.
+["INFO" - 10:29:03 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:29:03 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:29:03 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:29:03 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:29:03 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:29:03 PM] Formatting completed in 0.055ms.
+["INFO" - 10:30:11 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:30:11 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:30:11 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:30:11 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:30:11 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:30:11 PM] Formatting completed in 0.047ms.
+["INFO" - 10:31:04 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:31:04 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:31:04 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:31:04 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:31:04 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:31:05 PM] Formatting completed in 0.042ms.
+["INFO" - 10:32:07 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:32:07 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:32:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:32:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:32:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:32:07 PM] Formatting completed in 0.103ms.
+["INFO" - 10:40:02 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:40:02 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:40:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:40:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:40:02 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:40:02 PM] Formatting completed in 0.046ms.
+["INFO" - 10:58:04 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:58:04 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:58:04 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:58:04 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:58:04 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:58:04 PM] Formatting completed in 0.039ms.
+["INFO" - 10:58:23 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:58:23 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:58:23 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:58:23 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:58:23 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:58:23 PM] Formatting completed in 0.074ms.
+["INFO" - 10:59:37 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 10:59:37 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 10:59:37 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:59:37 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:59:37 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 10:59:37 PM] Formatting completed in 0.053ms.
+["INFO" - 11:00:07 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 11:00:07 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:00:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:00:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:00:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:00:07 PM] Formatting completed in 0.112ms.
+["INFO" - 11:00:20 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 11:00:20 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:00:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:00:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:00:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:00:20 PM] Formatting completed in 0.037ms.
+["INFO" - 11:02:22 PM] Formatting file:///home/dathd/Project/portfolio/src/styles/globals.scss
+["INFO" - 11:02:22 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:02:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 11:02:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:02:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/styles/globals.scss",
+  "parser": "scss"
+}
+["INFO" - 11:02:23 PM] Formatting completed in 0.314ms.
+["INFO" - 11:02:54 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 11:02:54 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:02:54 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:02:54 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:02:54 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:02:54 PM] Formatting completed in 0.049ms.
+["INFO" - 11:03:01 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 11:03:01 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:03:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:03:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:03:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:03:01 PM] Formatting completed in 0.07ms.
+["INFO" - 11:03:09 PM] Formatting file:///home/dathd/Project/portfolio/src/styles/globals.scss
+["INFO" - 11:03:09 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:03:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 11:03:09 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:03:09 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/styles/globals.scss",
+  "parser": "scss"
+}
+["INFO" - 11:03:09 PM] Formatting completed in 0.113ms.
+["INFO" - 11:05:05 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 11:05:05 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:05:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:05:05 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:05:05 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:05:05 PM] Formatting completed in 0.076ms.
+["INFO" - 11:05:16 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 11:05:16 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:05:16 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:05:16 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:05:16 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:05:16 PM] Formatting completed in 0.057ms.
+["INFO" - 11:06:27 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 11:06:27 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:06:27 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:06:27 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:06:27 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:06:27 PM] Formatting completed in 0.053ms.
+["INFO" - 11:07:00 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 11:07:00 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:07:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:07:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:07:00 PM] Formatting completed in 0.046ms.
+["INFO" - 11:07:16 PM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 11:07:17 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:07:17 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:07:17 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:07:17 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:07:17 PM] Formatting completed in 0.08ms.
+["INFO" - 11:10:21 PM] Formatting file:///home/dathd/Project/portfolio/src/pages/index.tsx
+["INFO" - 11:10:21 PM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 11:10:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:10:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:10:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/pages/index.tsx",
+  "parser": "typescript"
+}
+["INFO" - 11:10:21 PM] Formatting completed in 0.025ms.
+["INFO" - 12:12:23 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 12:12:23 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 12:12:23 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 12:12:23 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:12:23 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 12:12:24 AM] Formatting completed in 0.075ms.
+["INFO" - 12:13:01 AM] Formatting file:///home/dathd/Project/portfolio/src/components/Biz.tsx
+["INFO" - 12:13:01 AM] Using ignore file (if present) at /home/dathd/Project/portfolio/.prettierignore
+["INFO" - 12:13:01 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 12:13:01 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:13:01 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/dathd/Project/portfolio/src/components/Biz.tsx",
+  "parser": "typescript"
+}
+["INFO" - 12:13:01 AM] Formatting completed in 0.045ms.

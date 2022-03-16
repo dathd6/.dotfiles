@@ -1,0 +1,198 @@
+[2022-03-15 07:25:36.975] [renderer2] [error] Unable to read file '/home/dathd/Project/portfolio/src/components/Intro.tsx' (Error: File not modified since): Error: Unable to read file '/home/dathd/Project/portfolio/src/components/Intro.tsx' (Error: File not modified since)
+    at v.doReadFileStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:605:41988)
+    at async u.doRead (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2410:41390)
+    at async u.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2410:41065)
+    at async qi.resolveFromFile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2399:66630)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2410:35535
+[2022-03-15 08:55:48.637] [renderer2] [error] <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144315:38)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144255:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29849:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30282:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30279:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144255:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29849:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30277:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30271:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at formatSpanWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144055:17)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144019:140
+    at Object.getFormattingScanner (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142646:23)
+    at Object.formatNodeGivenIndentation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144019:31)
+    at getFormattedTextOfNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146414:45)
+    at format (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146385:52)
+    at computeNewText (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146388:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146352:39
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146350:42
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at Object.getTextChangesFromChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146336:27)
+    at ChangeTracker.getChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146275:45)
+    at Function.ChangeTracker.with (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145695:32)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155307:64)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146939:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146939:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:162166:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:162164:23)
+    at IpcIOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173731:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172364:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21): Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144315:38)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144255:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29849:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30282:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30279:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144255:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29849:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30277:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30271:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at formatSpanWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144055:17)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144019:140
+    at Object.getFormattingScanner (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142646:23)
+    at Object.formatNodeGivenIndentation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144019:31)
+    at getFormattedTextOfNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146414:45)
+    at format (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146385:52)
+    at computeNewText (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146388:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146352:39
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146350:42
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at Object.getTextChangesFromChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146336:27)
+    at ChangeTracker.getChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146275:45)
+    at Function.ChangeTracker.with (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145695:32)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155307:64)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146939:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146939:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:162166:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:162164:23)
+    at IpcIOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173731:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172364:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+    at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+    at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+    at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+    at ChildProcess.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2022-03-15 17:28:32.631] [renderer2] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-03-15 17:28:35.161] [renderer2] [info] UNRESPONSIVE extension host: starting to profile NOW

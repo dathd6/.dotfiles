@@ -1,0 +1,41 @@
+[2022-03-16 07:40:39.937] [exthost] [info] Extension host with pid 4532 started
+[2022-03-16 07:40:39.937] [exthost] [info] Skipping acquiring lock for /home/dathd/.config/Code/User/workspaceStorage/ed311ca9502d3cd1890a9ae3ce80411a.
+[2022-03-16 07:40:40.784] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-03-16 07:40:40.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-16 07:40:40.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-16 07:40:40.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-16 07:40:40.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-16 07:40:40.966] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-03-16 07:40:40.985] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2022-03-16 07:40:41.056] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-03-16 07:40:41.058] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-03-16 07:40:41.083] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-16 07:40:41.093] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-03-16 07:40:41.215] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-16 07:40:46.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-16 07:40:46.717] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-16 07:40:49.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-16 07:40:50.013] [exthost] [info] Eager extensions activated
+[2022-03-16 07:40:51.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 07:40:51.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 07:40:51.577] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 07:40:51.633] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 07:40:51.694] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 07:40:52.863] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 07:40:52.880] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 07:40:54.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-16 07:40:54.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-16 08:24:28.886] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-16 08:24:29.593] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/dathd/.vscode/extensions/vscodevim.vim-1.22.2/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/dathd/.vscode/extensions/vscodevim.vim-1.22.2/extension.ts:65:18)
+    at d._deactivate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:11702)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10226
+    at Array.map (<anonymous>)
+    at deactivateAll (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10214)
+    at _.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+    at c (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:36243)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:33938)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-03-16 08:24:29.599] [exthost] [info] Extension host with pid 4532 exiting with code 0

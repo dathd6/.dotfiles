@@ -1,0 +1,90 @@
+[2022-03-13 12:27:09.971] [exthost] [info] Extension host with pid 86347 started
+[2022-03-13 12:27:09.971] [exthost] [info] Skipping acquiring lock for /home/dathd/.config/Code/User/workspaceStorage/c1ca65897cc12d942a51eb42e3a70ea2.
+[2022-03-13 12:27:10.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-13 12:27:11.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-13 12:27:11.005] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-13 12:27:11.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-13 12:27:11.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-13 12:27:11.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-13 12:27:11.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-13 12:27:11.142] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-03-13 12:27:11.168] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2022-03-13 12:27:11.224] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-03-13 12:27:11.229] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-03-13 12:27:11.257] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-13 12:27:11.272] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-03-13 12:27:11.409] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-13 12:27:13.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-13 12:27:13.230] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-13 12:27:13.784] [exthost] [info] Eager extensions activated
+[2022-03-13 12:27:15.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-13 12:27:15.450] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-13 12:27:15.462] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-13 12:27:15.465] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-13 12:27:15.838] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-13 12:27:15.849] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-13 12:35:26.600] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 12:35:26.600] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 12:35:26.654] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-03-13 12:35:26.654] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:2,$model2) has been disposed"}
+[2022-03-13 12:35:31.245] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur, startup: false, activationEvent: 'onLanguage:vue'
+[2022-03-13 12:40:55.823] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 12:40:55.823] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 12:40:55.865] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-03-13 12:40:55.865] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:2,$model27) has been disposed"}
+[2022-03-13 15:31:46.915] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:31:46.916] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:31:46.951] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-03-13 15:31:46.951] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:2,$model44) has been disposed"}
+[2022-03-13 15:32:58.989] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:32:58.989] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:32:59.012] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-03-13 15:32:59.012] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:2,$model48) has been disposed"}
+[2022-03-13 15:34:48.806] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:34:48.806] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:34:48.827] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-03-13 15:34:48.827] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:2,$model49) has been disposed"}
+[2022-03-13 15:34:59.231] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:34:59.231] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:34:59.255] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-03-13 15:34:59.255] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:4,$model51) has been disposed"}
+[2022-03-13 15:36:39.200] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2022-03-13 15:36:39.200] [exthost] [error] Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103993)
+    at new n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103942)
+    at new n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+    at B (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:524154)
+    at Array.map (<anonymous>)
+    at Object.asDocumentSymbols (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:529500)
+    at /usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:455409
+    at f.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-13 15:39:01.884] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:39:01.884] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:39:01.923] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-03-13 15:39:01.923] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:5,$model59) has been disposed"}
+[2022-03-13 15:42:13.969] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:42:13.969] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:42:13.969] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:42:14.008] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-03-13 15:42:14.009] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:2,$model59) has been disposed"}
+[2022-03-13 15:42:15.205] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:42:15.335] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:42:15.441] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:42:17.840] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:42:17.840] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-13 15:42:17.848] [exthost] [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+[2022-03-13 15:42:17.848] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:6,$model59) has been disposed"}
+[2022-03-13 21:00:46.134] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-13 21:00:47.255] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/dathd/.vscode/extensions/vscodevim.vim-1.22.2/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/dathd/.vscode/extensions/vscodevim.vim-1.22.2/extension.ts:65:18)
+    at d._deactivate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:11702)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10226
+    at Array.map (<anonymous>)
+    at deactivateAll (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10214)
+    at _.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+    at c (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:36243)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:33938)
+    at Socket.emit (events.js:327:22)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-03-13 21:00:47.256] [exthost] [info] Extension host with pid 86347 exiting with code 0

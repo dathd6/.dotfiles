@@ -1,0 +1,14 @@
+[2022-03-13 12:27:08.902] [renderer2] [warning] No search provider registered for scheme: file, waiting
+[2022-03-13 12:36:43.284] [renderer2] [info] Settings Sync: Updated current session b573a9b8-5ac7-4d60-b891-db65560c4b51
+[2022-03-13 12:43:08.974] [renderer2] [error] net::ERR_TIMED_OUT: Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2022-03-13 15:36:39.202] [renderer2] [error] name must not be falsy: Error: name must not be falsy
+    at Function.validate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103993)
+    at new n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103942)
+    at new n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+    at B (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:524154)
+    at Array.map (<anonymous>)
+    at Object.asDocumentSymbols (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:529500)
+    at /usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:455409
+    at f.provideDocumentSymbols (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)

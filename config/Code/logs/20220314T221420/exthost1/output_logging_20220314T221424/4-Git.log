@@ -1,0 +1,15 @@
+[2022-03-14T15:14:30.200Z] Validating found git in: git
+[2022-03-14T15:14:30.503Z] Using git 2.25.1 from git
+[2022-03-14T15:14:30.629Z] > git rev-parse --git-dir [8ms]
+[2022-03-14T15:14:30.655Z] Open repository: /home/dathd/Project/iuri
+[2022-03-14T15:14:30.897Z] > git symbolic-ref --short HEAD [88ms]
+[2022-03-14T15:14:30.938Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-03-14T15:14:33.307Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2281ms]
+[2022-03-14T15:14:33.394Z] > git remote --verbose [2341ms]
+[2022-03-14T15:14:33.556Z] > git config --get commit.template [21ms]
+[2022-03-14T15:14:34.679Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/App.vue [285ms]
+[2022-03-14T15:14:34.776Z] > git cat-file -s e27decb25b8491d71eb45e0f6c7269ae71af2b15 [35ms]
+[2022-03-14T16:28:11.015Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/components/Home/Intro.vue [2ms]
+[2022-03-14T16:28:11.049Z] > git cat-file -s 288088a0d8f8a31506df4374c289c9ddefd27870 [18ms]
+[2022-03-14T16:28:16.478Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/views/Home.vue [323ms]
+[2022-03-14T16:28:16.532Z] > git cat-file -s 9a5b04dbf191ce7b3f591850a4e80bfcf96cca7e [37ms]

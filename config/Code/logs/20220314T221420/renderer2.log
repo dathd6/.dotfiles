@@ -1,0 +1,110 @@
+[2022-03-14 22:26:06.439] [renderer2] [warning] {"name":"Canceled","message":"Canceled"}
+[2022-03-14 23:21:46.487] [renderer2] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at p._lineAt (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:1174)
+    at Object.lineAt (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:95)
+    at DocumentDecoration.updateScopeDecorations (/home/dathd/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.62/out/src/documentDecoration.js:186:64)
+    at Timeout._onTimeout (/home/dathd/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.62/out/src/documentDecoration.js:133:18)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+[2022-03-14 23:39:53.229] [renderer2] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at p._lineAt (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:1174)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:95)
+    at /home/dathd/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/extension/dist/webpack:/auto-rename-tag/src/extensionMain.ts:319:41
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at D.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:71677)
+    at n._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:13812)
+    at n._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:13496)
+    at n._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:12158)
+    at n._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:10836)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:8945
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at c.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19017)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:34267
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at c.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19017)
+    at s._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23598)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21132
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at w.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15848)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14978
+    at Socket.P (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13790)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-03-14 23:48:03.521] [renderer2] [error] Error: XHR failed
+    at XMLHttpRequest.b.onerror (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:27625)
+[2022-03-14 23:56:19.893] [renderer2] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at p._lineAt (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:1174)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:95)
+    at /home/dathd/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/extension/dist/webpack:/auto-rename-tag/src/extensionMain.ts:319:41
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at D.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:71677)
+    at n._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:13812)
+    at n._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:13496)
+    at n._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:12158)
+    at n._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:10836)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:8945
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at c.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19017)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:34267
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at c.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19017)
+    at s._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23598)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21132
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at w.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15848)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14978
+    at Socket.P (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13790)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-03-14 23:56:24.625] [renderer2] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at p._lineAt (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:1174)
+    at Object.lineAt (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:95)
+    at DocumentDecoration.updateScopeDecorations (/home/dathd/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.62/out/src/documentDecoration.js:186:64)
+    at Timeout._onTimeout (/home/dathd/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.62/out/src/documentDecoration.js:133:18)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+[2022-03-14 23:58:13.617] [renderer2] [error] Illegal value for `line`: Error: Illegal value for `line`
+    at p._lineAt (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:1174)
+    at Object.rangeOffset [as lineAt] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:77:95)
+    at /home/dathd/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/packages/extension/dist/webpack:/auto-rename-tag/src/extensionMain.ts:319:41
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at D.$acceptModelChanged (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:71677)
+    at n._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:13812)
+    at n._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:13496)
+    at n._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:12158)
+    at n._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:10836)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:8945
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at c.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19017)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:34267
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at c.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19017)
+    at s._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23598)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21132
+    at d.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at w.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+    at w.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15848)
+    at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14978
+    at Socket.P (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13790)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)

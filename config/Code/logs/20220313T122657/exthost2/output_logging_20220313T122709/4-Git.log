@@ -1,0 +1,23 @@
+[2022-03-13T05:27:13.649Z] Validating found git in: git
+[2022-03-13T05:27:13.742Z] Using git 2.25.1 from git
+[2022-03-13T05:27:13.815Z] > git rev-parse --git-dir [4ms]
+[2022-03-13T05:27:13.824Z] Open repository: /home/dathd/Project/iuri
+[2022-03-13T05:27:13.885Z] > git symbolic-ref --short HEAD [6ms]
+[2022-03-13T05:27:13.895Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-03-13T05:27:13.924Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+[2022-03-13T05:27:13.929Z] > git remote --verbose [8ms]
+[2022-03-13T05:27:13.959Z] > git config --get commit.template [10ms]
+[2022-03-13T05:35:31.791Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/views/About.vue [7ms]
+[2022-03-13T05:35:31.808Z] > git cat-file -s 307d1fbadd7ffa0088b62cf81d599201a1521d9b [1ms]
+[2022-03-13T05:40:56.013Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/views/About.vue [3ms]
+[2022-03-13T05:40:56.029Z] > git cat-file -s 307d1fbadd7ffa0088b62cf81d599201a1521d9b [7ms]
+[2022-03-13T08:31:47.180Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/views/About.vue [4ms]
+[2022-03-13T08:31:47.191Z] > git cat-file -s 307d1fbadd7ffa0088b62cf81d599201a1521d9b [2ms]
+[2022-03-13T08:42:14.242Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/views/About.vue [3ms]
+[2022-03-13T08:42:14.254Z] > git cat-file -s 307d1fbadd7ffa0088b62cf81d599201a1521d9b [1ms]
+[2022-03-13T08:42:33.022Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/views/Home.vue [2ms]
+[2022-03-13T08:42:33.040Z] > git cat-file -s 9a5b04dbf191ce7b3f591850a4e80bfcf96cca7e [3ms]
+[2022-03-13T08:44:16.076Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/App.vue [38ms]
+[2022-03-13T08:44:16.157Z] > git cat-file -s e27decb25b8491d71eb45e0f6c7269ae71af2b15 [12ms]
+[2022-03-13T13:48:34.031Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/App.vue [3ms]
+[2022-03-13T13:48:34.055Z] > git cat-file -s e27decb25b8491d71eb45e0f6c7269ae71af2b15 [8ms]

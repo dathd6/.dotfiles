@@ -1,0 +1,15 @@
+[2022-03-15 07:18:22.591] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-03-15 07:18:23.632] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-03-15 09:09:30.350] [renderer1] [error] [Extension Host] TypeError: Cannot read property 'version' of null
+    at /home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:68024
+    at l (/home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at Generator._invoke (/home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4273)
+    at Generator.next (/home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at l (/home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4485)
+    at M (/home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:5658)
+    at Generator._invoke (/home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4050)
+    at Generator.next (/home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:4910)
+    at t (/home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:413)
+    at s (/home/dathd/.vscode/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js:1:624)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

@@ -1,0 +1,155 @@
+[2022-03-15 07:18:08.238] [exthost] [info] Extension host with pid 3808 started
+[2022-03-15 07:18:08.238] [exthost] [info] Skipping acquiring lock for /home/dathd/.config/Code/User/workspaceStorage/ed311ca9502d3cd1890a9ae3ce80411a.
+[2022-03-15 07:18:10.149] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-03-15 07:18:10.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-15 07:18:10.317] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-15 07:18:10.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.342] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.427] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.619] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.632] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.722] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.810] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-03-15 07:18:11.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-15 07:18:18.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-15 07:18:19.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-15 07:18:20.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:20.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:20.221] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:20.346] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:20.446] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:22.313] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:22.475] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:23.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-15 07:18:23.820] [exthost] [info] Eager extensions activated
+[2022-03-15 07:18:27.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-15 07:18:27.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-15 08:48:27.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+[2022-03-15 08:55:48.634] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-03-15 08:55:48.634] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144315:38)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144255:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29849:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30282:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30279:24)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144255:21
+    at visitNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29849:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30277:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30267:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at processChildNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144322:21)
+    at processChildNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144369:48)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144257:21
+    at visitNodes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:29854:24)
+    at Object.forEachChild (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:30271:21)
+    at processNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144254:20)
+    at formatSpanWorker (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144055:17)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144019:140
+    at Object.getFormattingScanner (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:142646:23)
+    at Object.formatNodeGivenIndentation (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:144019:31)
+    at getFormattedTextOfNode (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146414:45)
+    at format (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146385:52)
+    at computeNewText (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146388:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146352:39
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146350:42
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at Object.getTextChangesFromChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146336:27)
+    at ChangeTracker.getChanges (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146275:45)
+    at Function.ChangeTracker.with (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:145695:32)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:155307:64)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146939:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:146939:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:162166:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:162164:23)
+    at IpcIOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173731:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172364:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+    at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+    at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+    at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+    at ChildProcess.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2022-03-15 17:17:54.421] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:54.828] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:55.362] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:55.397] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:55.452] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:56.594] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:57.113] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:57.768] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:57.831] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:57.894] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:57.897] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:57.979] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:57.981] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.051] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.052] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.106] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.144] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.187] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.235] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.252] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.316] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.366] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.386] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.454] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.458] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.495] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:17:58.557] [exthost] [warning] TextEditor is closed/disposed

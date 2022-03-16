@@ -1,0 +1,6 @@
+Found Tailwind CSS config file: /home/dathd/Project/portfolio/tailwind.config.js
+Loaded postcss v8.4.8: /home/dathd/Project/portfolio/node_modules/postcss
+Loaded tailwindcss v3.0.23: /home/dathd/Project/portfolio/node_modules/tailwindcss
+
+warn - The RTL features in Tailwind CSS are currently in preview.
+warn - Preview features are not covered by semver, and may be improved in breaking ways at any time.

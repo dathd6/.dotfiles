@@ -1,0 +1,51 @@
+[Info  - 7:18:23 AM] ESLint server is starting
+[Info  - 7:18:25 AM] ESLint server running in node v14.16.0
+[Info  - 7:18:25 AM] ESLint server is running.
+[Info  - 7:18:28 AM] 
+Failed to load the ESLint library for the document /home/dathd/Project/iuri/src/views/Home.vue
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder iuri
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder iuri by executing the 'Disable ESLint' command.
+[Info  - 8:25:52 AM] 
+Failed to load the ESLint library for the document /home/dathd/Project/iuri/src/components/Home/Titles.vue
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder iuri
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder iuri by executing the 'Disable ESLint' command.
+[Info  - 8:36:56 AM] 
+Failed to load the ESLint library for the document /home/dathd/Project/iuri/src/components/Home/Biz.vue
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder iuri
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder iuri by executing the 'Disable ESLint' command.
+[Info  - 5:15:14 PM] 
+Failed to load the ESLint library for the document /home/dathd/Project/iuri/src/components/Home/Biz.vue
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder iuri
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder iuri by executing the 'Disable ESLint' command.
+[Info  - 9:59:14 PM] 
+Failed to load the ESLint library for the document /home/dathd/Project/iuri/src/js/mario.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder iuri
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder iuri by executing the 'Disable ESLint' command.
+[Info  - 10:35:14 PM] 
+Failed to load the ESLint library for the document /home/dathd/Project/iuri/src/views/work/Confianca.vue
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder iuri
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder iuri by executing the 'Disable ESLint' command.

@@ -1,0 +1,11 @@
+[2022-03-13T14:03:09.676Z] Validating found git in: git
+[2022-03-13T14:03:10.003Z] Using git 2.25.1 from git
+[2022-03-13T14:03:12.667Z] > git rev-parse --git-dir [2256ms]
+[2022-03-13T14:03:12.742Z] Open repository: /home/dathd/Project/iuri
+[2022-03-13T14:03:13.361Z] > git symbolic-ref --short HEAD [7ms]
+[2022-03-13T14:03:13.484Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [86ms]
+[2022-03-13T14:03:13.808Z] > git ls-files --stage -- /home/dathd/Project/iuri/src/App.vue [27ms]
+[2022-03-13T14:03:13.844Z] > git remote --verbose [244ms]
+[2022-03-13T14:03:13.845Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [270ms]
+[2022-03-13T14:03:14.015Z] > git config --get commit.template [54ms]
+[2022-03-13T14:03:14.075Z] > git cat-file -s e27decb25b8491d71eb45e0f6c7269ae71af2b15 [233ms]

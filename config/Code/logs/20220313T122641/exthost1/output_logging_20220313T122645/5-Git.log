@@ -1,0 +1,11 @@
+[2022-03-13T05:26:49.070Z] Validating found git in: git
+[2022-03-13T05:26:49.284Z] Using git 2.25.1 from git
+[2022-03-13T05:26:49.485Z] > git rev-parse --git-dir [24ms]
+[2022-03-13T05:26:49.525Z] Open repository: /home/dathd/Project/portfolio
+[2022-03-13T05:26:49.585Z] > git symbolic-ref --short HEAD [3ms]
+[2022-03-13T05:26:49.602Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [5ms]
+[2022-03-13T05:26:49.648Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [29ms]
+[2022-03-13T05:26:49.650Z] > git remote --verbose [18ms]
+[2022-03-13T05:26:49.693Z] > git config --get commit.template [7ms]
+[2022-03-13T05:26:51.247Z] > git ls-files --stage -- /home/dathd/Project/portfolio/src/components/Header.tsx [194ms]
+[2022-03-13T05:26:51.322Z] > git cat-file -s b0881cb338466610760101a01e8f2ec5526a39e0 [21ms]

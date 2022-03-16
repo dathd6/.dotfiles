@@ -1,0 +1,12 @@
+[Info  - 7:40:48 AM] ESLint server is starting
+[Info  - 7:40:50 AM] ESLint server running in node v14.16.0
+[Info  - 7:40:50 AM] ESLint server is running.
+[Info  - 7:40:52 AM] 
+Failed to load the ESLint library for the document /home/dathd/Project/iuri/src/views/Home.vue
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder iuri
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder iuri by executing the 'Disable ESLint' command.
+[Info  - 8:24:28 AM] ESLint server stopped.

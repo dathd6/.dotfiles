@@ -1,0 +1,7 @@
+[2022-03-14 08:08:36.959] [sharedprocess] [info] Starting worker process with pid 5070 (type: fileWatcher, window: 2).
+[2022-03-14 08:08:36.960] [sharedprocess] [info] Starting worker process with pid 5071 (type: fileWatcher, window: 1).
+[2022-03-14 22:02:25.413] [sharedprocess] [info] Worker process with pid 5071 terminated normally (type: fileWatcher, window: 1).
+[2022-03-14 22:02:38.464] [sharedprocess] [info] Starting worker process with pid 61093 (type: fileWatcher, window: 4).
+[2022-03-14 22:02:41.606] [sharedprocess] [info] Worker process with pid 61093 terminated normally (type: fileWatcher, window: 4).
+[2022-03-14 22:02:57.616] [sharedprocess] [info] Starting worker process with pid 61393 (type: fileWatcher, window: 5).
+[2022-03-14 22:14:11.670] [sharedprocess] [info] Worker process with pid 5070 terminated normally (type: fileWatcher, window: 2).

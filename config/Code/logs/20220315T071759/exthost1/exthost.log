@@ -1,0 +1,35 @@
+[2022-03-15 07:18:08.449] [exthost] [info] Extension host with pid 3801 started
+[2022-03-15 07:18:08.449] [exthost] [info] Skipping acquiring lock for /home/dathd/.config/Code/User/workspaceStorage/c1ca65897cc12d942a51eb42e3a70ea2.
+[2022-03-15 07:18:09.859] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur, startup: false, activationEvent: 'onLanguage:vue'
+[2022-03-15 07:18:09.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-15 07:18:10.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-15 07:18:10.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.113] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.321] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.529] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.542] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.641] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-03-15 07:18:10.706] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-03-15 07:18:11.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-15 07:18:17.386] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-15 07:18:17.557] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-15 07:18:18.198] [exthost] [info] Eager extensions activated
+[2022-03-15 07:18:18.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-15 07:18:18.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:18.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:18.963] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:19.185] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:19.413] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:21.946] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 07:18:22.060] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-15 08:47:57.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+[2022-03-15 17:15:14.226] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:15:14.228] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:16:39.944] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:16:39.944] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:16:41.327] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 17:16:41.327] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 21:59:15.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-03-15 23:08:44.108] [exthost] [warning] TextEditor is closed/disposed
+[2022-03-15 23:08:44.119] [exthost] [warning] TextEditor is closed/disposed
