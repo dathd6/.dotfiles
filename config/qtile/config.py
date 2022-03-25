@@ -86,11 +86,12 @@ keys = [
     Key([mod], "q", lazy.window.kill(), desc="Kill focused window"),
     Key([mod, "shift"], "r", lazy.reload_config(), desc="Reload the config"),
     Key([mod, "shift"], "Escape", lazy.shutdown(), desc="Shutdown Qtile"),
+    Key([mod, "shift"], "s", lazy.spawn('redshift -b 0.5:0.6'), desc="Shutdown Qtile"),
 #Key([mod], "r", lazy.spawn("rofi -show drun"), desc="Spawn a command using a prompt widget"),
     # DmenuRun
     Key([mod], 'r', lazy.run_extension(DmenuRun(
         font="TerminessTTF Nerd Font",
-        fontsize="13",
+        fontsize="8",
         dmenu_command="dmenu_run",
         dmenu_prompt=" ",
         #dmenu_height=10,
@@ -135,7 +136,7 @@ groups = [
     Group('7', label='七', matches=[Match(wm_class='')], layout='columns'),
     Group('8', label='八', matches=[Match(wm_class='firefox')], layout='columns'),
     Group('9', label='九', matches=[Match(wm_class='obs')], layout='columns'),
-    Group('0', label='零', matches=[Match(wm_class='Org.gnome.clocks')], layout='columns'),
+    Group('0', label='零', matches=[Match(wm_class='Org.gnome.clocks'), Match(wm_class='VirtualBox Manager')], layout='columns'),
 ]
 
 #prompt = "{0}@{1}: ".format(os.environ["USER"], socket.gethostname())
