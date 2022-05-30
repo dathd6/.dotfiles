@@ -242,6 +242,7 @@ let g:coc_global_extensions = [
     \ 'coc-json',
     \ 'coc-tsserver',
     \ 'coc-pyright',
+    \ 'coc-yaml',
     \ ]
 
 let g:NERDTreeIgnore = ['^node_modules$']
