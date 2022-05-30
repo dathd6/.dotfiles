@@ -101,6 +101,7 @@ bindsym $mod+Tab layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
+bindsym $mod+s exec "gnome-screenshot --interactive"
 bindsym $mod+Shift+s exec "alacritty -e alsamixer"
 
 # change focus between tiling / floating windows
@@ -187,15 +188,15 @@ bindsym $mod+d mode "resize"
 bar {
         status_command i3status
         colors {
-            background #0e1212
-            separator #282828
-            focused_workspace #682EA9   #682EA9  #ebdbb2
+            background #32302F
+            separator #32302F
+            focused_workspace #b8ba37   #b8ba37  #32320F
             urgent_workspace #cc241d   #cc241d  #ebdbb2
         }
 }
 
 # Color settings
-client.focused #32302F #32302F #682EA9 #682EA9
+client.focused #32302F #b8ba37 #32302F #32302F
 client.focused_inactive #682EA900 #32302F #ebdbb2 #682EA9
 #client.unfocused #682 #682 #682 #682
 #client.urgent #00C1FF #00C1FF #000088 #00C1FF
@@ -204,7 +205,7 @@ client.focused_inactive #682EA900 #32302F #ebdbb2 #682EA9
 #
 #
 #exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec_always "xrandr --output eDP --auto --left-of DP-1-2"
+exec_always "xrandr --output DP-1 --auto --right-of HDMI-3"
 #exec --no-startup-id ibus-daemon -d 
 #exec --no-startup-id nitrogen --restore; sleep 1; picom --config ~/.config/picom/picom.conf --experimental-backends
 exec --no-startup-id feh --bg-fill --randomize ~/Pictures/wallpaper 
@@ -231,7 +232,7 @@ assign [class="Brave-browser"] $ws2
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus
-for_window [class=".*"] border pixel 2
+for_window [class=".*"] border pixel 1
 
 # Do not follow the mouse
 focus_follows_mouse no

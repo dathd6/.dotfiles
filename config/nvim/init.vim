@@ -52,6 +52,7 @@ set updatetime=300
 " Don't pass messages to |ins-completion-menu|.
 set shortmess+=c
 
+" hhaha
 if exists('+termguicolors')
    let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
    let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
@@ -280,6 +281,7 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 nnoremap <leader>gs :G<cr>
 nnoremap <leader>gh :diffget //3<cr>
 nnoremap <leader>gf :diffget //2<cr>
+nnoremap <leader>gd :Gdiff<cr>
 
 " Keeping it centered
 nnoremap n nzzzv
